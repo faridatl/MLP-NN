@@ -1,1 +1,3 @@
-# MLP-NN
+# Multi-Layer Perceptron Neural Network Classifier (MLP NN):
+
+The Wine Dataset from the UCI machine learning repository is utilised again only this time four features are being used to classify the three classes. To evaluate the datasets classification performance a 5-Fold cross-validation of an MLP NN classifier will be used. The number of hidden layers used was and the number of neurons in each layer are . The numbers of hidden layers and neurons gave the best classification performance for this model. The confusion matrix, sensitivity, specificity, overall model accurscy, F1-score, and ROC & AUC Curve were all calculated as well.
